@@ -1,1 +1,1 @@
-site URL :: https://zexited.github.io./
+site URL :: https://zexited.github.io.
